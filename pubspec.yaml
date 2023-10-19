@@ -1,0 +1,19 @@
+name: snapping_bottom_sheet
+description: A widget that can be dragged, scrolled and snapped to a list of extents.
+version: 1.0.0
+homepage: https://github.com/imsujan276/snapping_bottom_sheet
+
+environment:
+  sdk: '>=2.19.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
