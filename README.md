@@ -1,9 +1,9 @@
 # Snapping Bottom Sheet
 
-A widget that can be dragged, scrolled and snapped to a list of extents. 
+A Draggable, Scrobllable and Snapping Bottom Sheet. 
 
 #### Example:
-![Example](example.gif)
+![Example](https://github.com/imsujan276/snapping_bottom_sheet/blob/main/example.gif)
 
 ## Usage
 There are two ways in which you can use a `SnappingBottomSheet`: 
