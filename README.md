@@ -3,7 +3,7 @@
 A widget that can be dragged, scrolled and snapped to a list of extents. 
 
 #### Example:
-![Example](./example.gif)
+![Example](example.gif)
 
 ## Usage
 There are two ways in which you can use a `SnappingBottomSheet`: 
