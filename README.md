@@ -3,7 +3,11 @@
 A Draggable, Scrobllable and Snapping Bottom Sheet. 
 
 #### Example:
-![Example](https://github.com/imsujan276/snapping_bottom_sheet/blob/main/example.gif)
+
+| Image    | Gif |
+| --------- | ------- |
+| ![](example/screenshot/1.png)     |   ![Example](https://github.com/imsujan276/snapping_bottom_sheet/blob/main/example.gif) </br></br> If not loaded, [CLICK HERE](https://github.com/imsujan276/snapping_bottom_sheet/blob/main/example.gif)      |
+
 
 ## Usage
 There are two ways in which you can use a `SnappingBottomSheet`: 
