@@ -1,7 +1,7 @@
 name: snapping_bottom_sheet
 description: Draggable, Scrobllable and Snapping Bottom Sheet widget made with flutter.
-version: 1.0.3
-homepage: 
+version: 1.0.4
+homepage: https://github.com/imsujan276/snapping_bottom_sheet
 
 screenshots:
  - description: 'Example of the snapping bottom sheet'
